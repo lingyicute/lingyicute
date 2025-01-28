@@ -4,11 +4,16 @@
 
 > 📝 The only way to do great is to love what you do. 💖
 
-### About Me
+I'm a high school student from mainland China wwit great passionate about open-source development. I believe that great work comes from doing what you love, and I try to bring that philosophy into everything I create. If you like my work, remember to give me a star!
 
-I'm passionate about open-source developing. I believe that great work comes from doing what you love, and I bring that philosophy into everything I create.
+### 🚀 Let's Connect: 
 
-### 🚀 Let's Connect:
-
+<a href="mailto:lingyicute@gmail.com" target="_blank" style="text-decoration: none">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;" alt="lingyicute@gmail.com" />
+</a>
+<a href="https://github.com/lingyicute" target="_blank" style="text-decoration: none">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block;" alt="lingyicute" />
+</a>
+  
 - 📂 GitHub: [lingyicute](https://github.com/lingyicute)
 - 🌐 Website: [https://92li.us.kg](https://92li.us.kg)
