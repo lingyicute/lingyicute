@@ -23,3 +23,8 @@ I'm a high school student from mainland China wwit great passionate about open-s
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;" alt="lingyicute@gmail.com" />
     </a>
 </div>
+<div>
+    <a href="https://t.me/lingyicute2323" target="_blank" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="display: inline-block;" alt="lingyicute2323" />
+    </a>
+</div>
