@@ -8,15 +8,18 @@ I'm a high school student from mainland China wwit great passionate about open-s
 
 ### 🚀 Let's Connect: 
 
-<div <a href="https://github.com/lingyicute" target="_blank" style="text-decoration: none">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block;" alt="lingyicute" />
+<div>
+    <a href="https://github.com/lingyicute" target="_blank" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block;" alt="lingyicute" />
+    </a>
 </div>
-<div <a href="https://92li.us.kg" target="_blank" style="text-decoration: none">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white" style="display: inline-block;" alt="lingyicute" />
+<div>
+    <a href="https://92li.us.kg" target="_blank" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white" style="display: inline-block;" alt="lingyicute" />
+    </a>
 </div>
-<div <a href="mailto:lingyicute@gmail.com" target="_blank" style="text-decoration: none">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;" alt="lingyicute@gmail.com" />
+<div>
+    <a href="mailto:lingyicute@gmail.com" target="_blank" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;" alt="lingyicute@gmail.com" />
+    </a>
 </div>
-  
-- 📂 GitHub: [lingyicute](https://github.com/lingyicute)
-- 🌐 Website: [https://92li.us.kg](https://92li.us.kg)
