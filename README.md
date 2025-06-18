@@ -15,22 +15,8 @@ Like my work? Let's connect and build something star-worthy! ✨
 ### 🚀 Let's Connect: 
 
 <div>
-    <a href="https://github.com/lingyicute" target="_blank" style="text-decoration: none">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block;" alt="lingyicute" />
-    </a>
+        <img href="https://github.com/lingyicute" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+        <img href="mailto:lingyicute@gmail.com" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" />
+        <img href="https://t.me/lingyicute2323" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" />
 </div>
-<div>
-    <a href="https://92li.uk" target="_blank" style="text-decoration: none">
-        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white" style="display: inline-block;" alt="lingyicute" />
-    </a>
-</div>
-<div>
-    <a href="mailto:lingyicute@gmail.com" target="_blank" style="text-decoration: none">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;" alt="lingyicute@gmail.com" />
-    </a>
-</div>
-<div>
-    <a href="https://t.me/lingyicute2323" target="_blank" style="text-decoration: none">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="display: inline-block;" alt="lingyicute2323" />
-    </a>
-</div>
+
