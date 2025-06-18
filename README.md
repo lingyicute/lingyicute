@@ -14,9 +14,6 @@ Like my work? Let's connect and build something star-worthy! ✨
 
 ### 🚀 Let's Connect: 
 
-<div>
-        <img href="https://github.com/lingyicute" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
-        <img href="mailto:lingyicute@gmail.com" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" />
-        <img href="https://t.me/lingyicute2323" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" />
-</div>
-
+[![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/lingyicute)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg)](mailto:lingyicute@gmail.com)
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/lingyicute2323)
