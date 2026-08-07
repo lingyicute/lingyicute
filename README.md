@@ -2,7 +2,7 @@
 
 ## 🍐 × 💻 = ❤️ | 想用开源咒语改变世界 🌟
 
-## Open Source Enthusiast， Developer & Security Researcher 😋
+## Open Source Enthusiast, Developer & Security Researcher 😋
 
 > 📝 The only way to do great is to love what you do. 💖
 
