@@ -10,7 +10,7 @@ Hi there! I'm a developer and security researcher crafting code with bubble tea 
 
 My keyboard is a magic wand 🪄 – every commit is a spell to build friendlier digital realms. When I'm not battling math problems, you'll find me whispering to Bash scripts and coaxing syscalls into friendship.
 
-Like my work? Get in touch with me， and let's build something star-worthy ✨
+Like my work? Get in touch with me, and let's build something star-worthy ✨
 
 ### 🚀 Let's Connect: 
 
