@@ -15,7 +15,7 @@ If something has a bootloader, I probably want to unlock it. 🔓
 I believe in open ecosystems, right-to-repair, and that one person's electronic trash is another's weekend project. 
 
 ### 🛠️ Behind the screen:
-- Tinkering with **Linux / AOSP** and researching **GrapheneOS**.**QubesOS** and **SecureBlue**.
+- Tinkering with **Linux / AOSP** and researching **GrapheneOS**, **QubesOS** and **SecureBlue**.
 - Tinkering with **coreboot** to liberate hardware firmware.
 - Exploring **iOS internals** and jailbreak techniques.
 - Proudly collecting "e-waste"s — giving vintage electronics a second life. 💖
