@@ -1,5 +1,7 @@
 # Hi, I'm lingyicute / lyi 梨 👋
 
+## enfp & les / [92li.uk](https://92li.uk) / 漫漫星河，有一颗是我。
+
 ## 🍐 × 💻 = ❤️ | Open Source Enthusiast, Developer & Security Researcher
 
 > **Writing code that respects freedom, exploring hardware that others left behind.**
