@@ -10,7 +10,7 @@ Hi there! Welcome to my digital backyard.
 
 I'm a 19 y.o developer obsessed with what happens under the hood of our devices. I transitioned from writing simple Bash scripts to diving deep into system kernels and firmware. Whether it's building secure environments or finding exploits in closed systems, I love the process of dissecting complex technology. 
 
-When I'm not making commits, I'm likely reviving obscure "e-waste"s, poking holes in iOS security mitigations, and delving into the internal mechanisms of other operating systems.
+When I'm not making commits, I'm likely reviving discarded electronics, poking holes in iOS security mitigations, and delving into the internal mechanisms of other operating systems.
 
 If something has a bootloader, I probably want to unlock it. 🔓
 
