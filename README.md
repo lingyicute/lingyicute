@@ -22,7 +22,7 @@ I believe in open ecosystems, the right to repair, and the idea that one person'
 - Tinkering with **coreboot** to liberate hardware firmware.
 - Exploring **iOS internals** and jailbreak techniques.
 - Proudly collecting "e-waste" — giving vintage electronics a second life. 💖
-- 
+
 Feel free to reach out for tech discussions, open-source collaborations, or just to share some cool electronic junk!
 
 ### 📬 Reach out:
