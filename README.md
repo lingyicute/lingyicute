@@ -18,7 +18,7 @@ I believe in open ecosystems, the right to repair, and the idea that one person'
 
 ### 🛠️ Behind the screen:
 - Diving into **Linux / AOSP** and researching **GrapheneOS**, **QubesOS** and **SecureBlue**.
-- Fascinated by niche open-source POSIX systems like **OpenIndiana** and **Haiku**, currently administering Haiku's Simplified Chinese localization.
+- Fascinated by niche open-source POSIX systems like **OpenIndiana** and **Haiku**, currently [administering Haiku's Simplified Chinese localization](https://i18n.haiku-os.org/pootle/user/lingyicute/).
 - Tinkering with **coreboot** to liberate hardware firmware.
 - Exploring **iOS internals** and jailbreak techniques.
 - Proudly collecting "e-waste" — giving vintage electronics a second life. 💖
@@ -43,3 +43,9 @@ Blindly opposing AI is not just outdated dogma; it is an active security liabili
 If you see hallucinated function calls, broken control flows, or off-topic issues, that is not an LLM's fault — that is a human problem. It’s the failure of the human operator to review their own work. The model may have generated the mistake, but the person submitting it owns the change. Blame the meatbag who copy-pasted it without reviewing, not the matrix math. AI is not a scapegoat. 
 
 I can sympathize if you are pestered daily by terrible AI-generated requests; you are right to reject submissions that are unreviewed and untested by the sender. However, “AI-generated” is not, by itself, a complete quality assessment. Dismissing functional software as "AI slop" without reading a single line of code is not quality control. It is the laziest possible gatekeeping. The drive-by label itself is the real slop.
+
+#### 👉 A prime example of a clueless and toxic gatekeeper
+
+![image](https://raw.githubusercontent.com/lingyicute/lingyicute/refs/heads/main/flathub-teamcons.jpg)
+
+Hands down the funniest take I’ve seen all year. Imagine being a Flathub reviewer and not even understanding how Flatpak permissions work. [Click here for full context](https://flathub.92li.uk).
