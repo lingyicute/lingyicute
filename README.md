@@ -25,6 +25,22 @@ I believe in open ecosystems, the right to repair, and the idea that one person'
 
 Feel free to reach out for tech discussions, open-source collaborations, or just to share some cool electronic junk!
 
+### 🛡️ Featured Writing
+
+I recently published a comprehensive defense guide for users facing extreme threat models (state-sponsored coercion, supply-chain attacks, etc.). If you rely on closed-source OS mitigations or blindly trust OEM firmware, you might want to rethink your trust chain.
+
+👉 **[写给高威胁模型下用户的安全与防御指南 (A Guide to Security and Defense for Users Under High-Threat Models)](https://github.com/lingyicute/SecurityAdvice/blob/main/README.md)**
+
+> “安全不始于系统安装完成的那一刻，而始于你决定信任什么。”
+> 
+> (Security doesn't begin when the OS installation finishes; it begins the moment you decide what to trust.)
+
+**Key topics covered:**
+* The Compromised Host Problem & Out-of-band Verification.
+* Why **GrapheneOS (Pixel)** is currently the most accessible Root of Trust.
+* Shattering the UEFI illusion: SMM ghosts and the necessity of **coreboot/Heads**.
+* Hardware OPSEC & verifiable trust chains from the ground up.
+
 ### 📬 Reach out:
 [![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/lingyicute)
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg)](mailto:lingyicute@gmail.com)
