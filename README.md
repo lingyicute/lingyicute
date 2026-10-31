@@ -60,8 +60,10 @@ If you see hallucinated function calls, broken control flows, or off-topic issue
 
 I can sympathize if you are pestered daily by terrible AI-generated requests; you are right to reject submissions that are unreviewed and untested by the sender. However, “AI-generated” is not, by itself, a complete quality assessment. Dismissing functional software as "AI slop" without reading a single line of code is not quality control. It is the laziest possible gatekeeping. The drive-by label itself is the real slop.
 
-#### 👉 A prime example of a clueless and toxic gatekeeper
+#### 👉 A case study in why "AI-generated" is not a valid technical review
 
 ![image](https://raw.githubusercontent.com/lingyicute/lingyicute/refs/heads/main/flathub-teamcons.jpg)
 
-Hands down the funniest take I’ve seen all year. Imagine being a Flathub reviewer and not even understanding how Flatpak permissions work. [Click here for full context](https://flathub.92li.uk).
+I once shared a technical explanation where an LLM was involved, but strictly as a tool to polish the phrasing. Before posting, I carefully went over every single sentence to make sure it was technically sound and accurately reflected what I wanted to say. However, the reviewer dismissed it rather harshly, simply because it "read like AI." As it turned out, my points were entirely correct; it was actually the reviewer who lacked a proper understanding of the Flatpak permissions model.
+
+Later, when I pointed this out, he didn't take it very well. He ended up locking the PR conversation, leaving just a single letter "L". But that’s a story for another day, so I won't dwell on it here.
