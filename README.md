@@ -64,6 +64,6 @@ I can sympathize if you are pestered daily by terrible AI-generated requests; yo
 
 ![image](https://raw.githubusercontent.com/lingyicute/lingyicute/refs/heads/main/flathub-teamcons.jpg)
 
-I once shared a technical explanation where an LLM was involved, but strictly as a tool to polish the phrasing. Before posting, I carefully went over every single sentence to make sure it was technically sound and accurately reflected what I wanted to say. However, the reviewer dismissed it rather harshly, simply because it "read like AI." As it turned out, my points were entirely correct; it was actually the reviewer who lacked a proper understanding of the Flatpak permissions model.
+I once shared a technical explanation on Flathub where an LLM was involved, but strictly as a tool to polish the phrasing. Before posting, I carefully went over every single sentence to make sure it was technically sound and accurately reflected what I wanted to say. However, a Flathub reviewer dismissed it rather harshly, simply because it "read like AI." As it turned out, my points were entirely correct; it was actually the reviewer who lacked a proper understanding of the Flatpak permissions model.
 
 Later, when I pointed this out, he didn't take it very well. He ended up locking the PR conversation, leaving just a single letter "L". But that’s a story for another day, so I won't dwell on it here.
