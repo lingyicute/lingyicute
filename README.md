@@ -16,6 +16,8 @@ If something has a bootloader, I probably want to unlock it. 🔓
 
 I believe in open ecosystems, the right to repair, and the idea that one person's "e-waste" is another's weekend project. 
 
+You can find mirrors of my repos on [GitLab](https://gitlab.com/lingyicute), [Codeberg](https://codeberg.org/lingyicute), [Gitea](https://gitea.com/lingyicute), [Framagit](https://framagit.org/lingyicute), [GitGud](https://gitgud.io/lingyicute) and [Bitbucket](https://bitbucket.org/lingyicute).
+
 ### 🛠️ Behind the screen:
 - Diving into **Linux / AOSP** and researching **GrapheneOS**, **QubesOS** and **SecureBlue**.
 - Fascinated by niche open-source POSIX systems like **OpenIndiana** and **Haiku**, currently [administering Haiku's Simplified Chinese localization](https://i18n.haiku-os.org/pootle/user/lingyicute/).
